@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the data-analyst-full-project-adalab, a code project for data analysis that includes data cleaning, data manipulation, and data visualization. The project is written in Python and uses various libraries such as Pandas, Numpy, and Matplotlib. You can access the code on Github at https://github.com/belenaj.
+Welcome to the data-analyst-full-project-adalab, a code project for data analysis that includes data preparation, data ingestion and dat cleaning. The project is written in Python and uses various libraries such as Pandas, Numpy, and Request. You can access the code on Github at https://github.com/belenaj.
 
 The project involves three parts: data collection, data preparation, and data ingestion, which are executed in sequence.
 
