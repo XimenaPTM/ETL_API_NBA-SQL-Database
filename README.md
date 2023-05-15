@@ -15,20 +15,32 @@ The data for this project is extracted from the API https://www.balldontlie.io/h
 ## Libraries:
 
 📔 !pip install request
+
 📔 !pip install pandas
+
 📔 !pip install numpy
+
 📔 !pip install json
+
 📔 !pip install jupyter
+
 📔 !pip install nbconvert
+
 📔 !pip install python-dotenv
+
 📔 !pip install mysql-connector
+
 📔 !pip install mysql-connector-python
+
 
 ## Folders
 
 📁 notebooks: it conteins the file in .ipynb and .py
+
 📁 sample/data: here will be created the files
+
 📁 sql/ddl: here are some queries for mysql (tables creations, data cleaning and data about teams, players and games)
+
 
 ## Connect with me
 
